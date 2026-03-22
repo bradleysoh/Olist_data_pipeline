@@ -1,13 +1,9 @@
-  <img src="https://img.shields.io/badge/Meltano-3A30C3?style=for-the-badge&logo=meltano&logoColor=white" alt="Meltano" />
-  <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF044?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+# End-to-End Data Pipeline and Analysis Workflow for an E-Commerce Company
+
+<img src="https://img.shields.io/badge/Meltano-3A30C3?style=for-the-badge&logo=meltano&logoColor=white" alt="Meltano" /> <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="BigQuery" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" /> <img src="https://img.shields.io/badge/DuckDB-FFF044?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 
 ## Project Overview
-This project builds an end-to-end analytics pipeline on the Olist Brazilian e-commerce dataset,
-transforming raw CSV files into analytics-ready fact and dimension tables using dbt and BigQuery.
+This project builds an end-to-end analytics pipeline on the Olist Brazilian e-commerce dataset, transforming raw CSV files into analytics-ready fact and dimension tables using dbt and BigQuery.
 
 The goal is to analyse order growth, customer purchasing behaviour, and delivery performance
 using production-style data modelling, testing, and validation.
