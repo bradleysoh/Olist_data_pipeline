@@ -22,6 +22,7 @@ A[Kaggle CSV Files] --> B[Meltano ELT]
 
 subgraph Local_Development
 B --> C[DuckDB]
+C --> I[Quick EDA / Local Queries]
 end
 
 subgraph Data_Warehouse
